@@ -16,7 +16,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
   
 - <b>Bank App</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [Bank Account: Deposit and Withdrawal API](https://github.com/Tinuola95/Tinuola95-BankAccount.git)
 
 <h2>🤳Connect with me:</h2>
 
