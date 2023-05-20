@@ -13,7 +13,7 @@
 <h2>👨‍💻 Programming Projects:</h2>
 
 - <b>Social Media App</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [Social Media Blog API:](https://github.com/Tinuola95/Tinuola95-pep-project.git)
   
 - <b>Bank App</b>
   - [Bank Account: Deposit and Withdrawal API](https://github.com/Tinuola95/Tinuola95-BankAccount.git)
