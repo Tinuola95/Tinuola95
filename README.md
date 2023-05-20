@@ -18,6 +18,9 @@
 - <b>Bank App</b>
   - [Bank Account: Deposit and Withdrawal API](https://github.com/Tinuola95/Tinuola95-BankAccount.git)
 
+- <b>Grocery List App</b>
+  - [Social Media Blog API:](https://github.com/Tinuola95/Tinuola95-GroceryList.git)
+
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Tinuola95 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
