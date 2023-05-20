@@ -19,7 +19,7 @@
   - [Bank Account: Deposit and Withdrawal API](https://github.com/Tinuola95/Tinuola95-BankAccount.git)
 
 - <b>Grocery List App</b>
-  - [Social Media Blog API:](https://github.com/Tinuola95/Tinuola95-GroceryList.git)
+  - [Grocery List:](https://github.com/Tinuola95/Tinuola95-GroceryList.git)
 
 <h2>🤳Connect with me:</h2>
 
